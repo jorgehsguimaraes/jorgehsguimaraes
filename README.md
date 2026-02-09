@@ -1,7 +1,7 @@
 👋 Olá, eu sou Jorge Henrique 
 
 🎓 Estudante de **Engenharia de Software** (Anhanguera)  
-💻 Em formação como **Desenvolvedor Fullstack** (Senac)  
+💻 Formado como **Desenvolvedor Fullstack** (Senac)  
 📚 Iniciante no mundo da programação, sempre aprendendo e evoluindo 🚀  
 
 ## 📊 Minhas Estatísticas no GitHub
