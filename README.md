@@ -16,7 +16,7 @@ Busco minha primeira oportunidade na área de desenvolvimento de software, com f
 ✨ *Transformando aprendizado em experiência e construindo uma carreira sólida como Desenvolvedor Backend.*
 
 
-## 🚀 Linguagens e Tecnologias (Aprendendo)
+## 🚀 Linguagens e Tecnologias 
 
 <div align="center">
   
