@@ -3,7 +3,7 @@
 
 💻 Formado no curso de **Desenvolvimento Fullstack pelo Senac**
 
-🚀 Focado em me tornar um **Desenvolvedor Backend**
+🚀  **Desenvolvedor Backend**
 
 
 ---
