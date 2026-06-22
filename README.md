@@ -1,4 +1,3 @@
-# 👋 Olá, eu sou Jorge Henrique
 
 🎓 Estudante de **Engenharia de Software**
 💻 Formado no curso de **Desenvolvimento Fullstack pelo Senac**
