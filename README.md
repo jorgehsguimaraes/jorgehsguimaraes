@@ -1,5 +1,5 @@
 
-🎓 Estudante de **Engenharia de Software** pela **https://www.anhanguera.com/**
+🎓 Estudante de **Engenharia de Software** pela **anhanguera**
 
 💻 Formado no curso de **Desenvolvimento Fullstack pelo Senac**
 
